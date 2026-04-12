@@ -1,0 +1,8 @@
+git 업로드
+새로운 리포지터리(저장수) 생성
+git init
+git add .
+git commit -m "pyworks"
+git branch -M main
+git remote add origin 리포지터리 주소
+git push -u origin main
