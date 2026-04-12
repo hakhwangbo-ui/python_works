@@ -6,3 +6,8 @@ git commit -m "pyworks"
 git branch -M main
 git remote add origin 리포지터리 주소
 git push -u origin main
+
+- 두번째 부터
+git add .
+git commit -m "pyworks"
+git push -u origin main
